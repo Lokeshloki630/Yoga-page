@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    height: 100vh;
+    width: 380px;
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    padding: 30px;
+}
+
+.headding1 {
+    text-align: center;
+    color: #132d84;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 800;
+}
+
+.image1 {
+    height: 40vh;
+    margin-top: 90px;
+}
+
+.p {
+    color: #323f4b;
+    text-align: center;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.button {
+    background-color: #132d84;
+    border-radius: 8px;
+    width: 110px;
+    height: 35px;
+    color: #ffffff;
+}
+
+
+.bg-container1 {
+    height: 150vh;
+    width: 380px;
+    background-color: #ffedcb;
+    padding: 30px;
+}
+
+.headding2 {
+    text-align: center;
+    color: #132d84;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.image2 {
+    height: 40vh;
+    width: 260px;
+}
+
+.container1 {
+    height: 20vh;
+    background-color: #ffe2ab;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.image3 {
+    height: 12vh;
+    width: 90px;
+    margin: 10px;
+}
+
+.container-text {
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+
+.headding3 {
+    color: #132d84;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.para {
+    color: #132d84;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.button1 {
+    background-color: #132d84;
+    border-radius: 8px;
+    width: 90px;
+    height: 35px;
+    color: #ffffff;
+}
